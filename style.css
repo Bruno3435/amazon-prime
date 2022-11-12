@@ -1,0 +1,20 @@
+#logo{
+    background: blue;
+}
+
+#container{
+    background-color: red;
+}
+
+.Produto{
+    background: gray;
+    margin: 10px;
+}
+
+#rodapé{
+    background-color: green;
+}
+
+.azul{
+    color: blue;
+}
